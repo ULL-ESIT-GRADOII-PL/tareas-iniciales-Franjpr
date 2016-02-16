@@ -9,6 +9,6 @@ Configuración de las herramientas y tecnologías a utilizar en Procesadores de 
 * Cloud9
 * Markdown
 
-[Página personal de prácticas](http:/alu0100503623.github.io/)
+[Página personal de prácticas](http:/franjpr.github.io/)
 
-[Página de la práctica inicial](http://alu0100503623.github.io/tareas-iniciales)
+[Página de la práctica inicial](http://franjpr.github.io/tareas-iniciales)
